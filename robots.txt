@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-236kkt.privatetalks.online/sitemap.xml
